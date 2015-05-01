@@ -12,30 +12,13 @@
 		  <![endif]-->
 	</head>
 	<body>
-		<div class="container no-gutters">
-			<div class="row ">
-				<div class="cell-xs-6 cell-sm-8 cell-lg-8 main_content ">
-					<div class="row">
-						<div class="cell-lg-12 ">
-							<div class="cell-lg-12 color ">
-								<h1>hello</h1>
-							</div>
-							
-						</div>
-					</div>
-
-				</div>
-				<div class="cell-xs-6 cell-sm-4 cell-lg-4 side_bar">
-					<div class="row">
-						<div class="cell-lg-12 ">
-							<h1 class="words">Menu</h1>
-							<!-- <h1 class="words">Sub Menu</h1> -->
-						</div>
-						<div class="cell-lg-12 ">
-							<h1 class="words1">about</h1>
-							<!-- <h1 class="words">Sub Menu</h1> -->
-						</div>
-					</div>
+		<div class="container skew no-gutters">
+			<div clas="row no-gutters">
+				<div class="cell-lg-12 no-gutters">
+					<div class="cell-xs-1 cell-md-1 bg_filler"></div>
+					<div class="cell-xs-1 cell-md-5"></div>
+					<div class="cell-xs-1 cell-md-1 bg_filler"></div>
+					
 				</div>
 			</div>
 			
